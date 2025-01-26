@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../widgets/common/custom_text_field.dart';
+import '../widgets/common/custom_text_field.dart';
 
 class SettingsScreen extends StatelessWidget {
   @override
